@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer working in Turkish Republic.
+#### I'm a Frontend Developer working in Turkey.
 
 ##### NOW
 
