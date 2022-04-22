@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**fsuaterdogan/fsuaterdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Frontend Developer working in Turkish Republic.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Managing a entrepreneur community [HeyCreatorHub](https://beacons.ai/creatorhub)
+- 🧑‍💻 Planning another SaaS project
+- 🤑 Actively investing in [Ekofi Capital](https://portfolio-ekofi.vercel.app)
+
+##### BIO
+
+- 🏢 I'm currently working at my own company, **Ekofi United**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svelte`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: [Yazankasa (SOLD, now it's Rizqin)](https://rizqin.app), [Directs.Space (MVP)](https://directs.space), etc…
+- 📫 Reach me: [twitter.com/fsuaterdogan](https://twitter.com/fsuaterdogan)
+- ⚡️ Fun fact: I want to make $10K ARR, maybe $1K monthly (for now:))
